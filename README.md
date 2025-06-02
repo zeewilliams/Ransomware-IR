@@ -93,8 +93,7 @@ The investigation leverages Windows Event Logs and Sysmon logs to uncover the ti
 ---
 
 ## 📎 References
-
-- [TryHackMe Retracted Write-Up](https://medium.com/@fritzadriano63/retracted-tryhackme-writeup-86539ece169c)  
+ 
 - [TryHackMe Room – Retracted](https://tryhackme.com/room/retracted)  
 - Microsoft Docs: [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)  
 - Microsoft Docs: [Event Viewer](https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/basic-audit-event-ids)  
@@ -108,4 +107,3 @@ The investigation leverages Windows Event Logs and Sysmon logs to uncover the ti
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/zee-williams)  
 🔍 [Explore my cybersecurity projects on GitHub](https://github.com/zeewilliams)
-```
